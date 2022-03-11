@@ -1,5 +1,5 @@
 # DataStructures-AlgorithmsInC++
-Data Stuctures &amp; Algorithms source code in C++ programming language
+Data Stuctures &amp; Algorithms source code in C++ programming language || Each source code is find in a file called Source.cpp
 
 # Data Structures  (S B I H Q M)
 ## Sorting
